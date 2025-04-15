@@ -64,6 +64,7 @@ Copy the folder with the source code and paste it in (for XAMPP xampp/htdocs, fo
 
 This web application is written in PHP and uses MySQL database. Ensure the PHP version is the same to avoid errors.
 
-###Login Credentials
+### Login Credentials
+
 - username: admin
 - password: alphacodecamp
