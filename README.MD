@@ -9,36 +9,36 @@ This project is written in PHP and MYSQL database. This System is responsive and
 
 # Features of the lost and found information system in PHP
   # Admin panel
-Dashboard – Shows the platform summary.
-Add Category.
-View other listed category.
-Delete and edit any Category.
-List lost and found Item.
-Edits or delete any item.
-Mark lost and found item as claimed.
-Add item image.
-Edit custom pages.
-View contact messages.
-Delete any contact message.
-Add users.
-Change user role.
-Edit Contact info.
-Change site info.
-Update profile.
-Login and logout system.
-Message count system
-Change password.
++ Dashboard – Shows the platform summary.
++ Add Category.
++ View other listed category.
++ Delete and edit any Category.
++ List lost and found Item.
++ Edits or delete any item.
++ Mark lost and found item as claimed.
++ Add item image.
++ Edit custom pages.
++ View contact messages.
++ Delete any contact message.
++ Add users.
++ Change user role.
++ Edit Contact info.
++ Change site info.
++ Update profile.
++ Login and logout system.
++ Message count system
++ Change password.
 
   # Users / Visitors Side
-post Lost and found item
-Send contact message
-View posted lost item
-Find/Claim item
++ post Lost and found item
++ Send contact message
++ View posted lost item
++ Find/Claim item
 
 # Requirements
-Almost all servers already have them installed.
-PHP 4.2
-MYSQL Database
++ Almost all servers already have them installed.
++ PHP 4.2
++ MYSQL Database
 
 # Step by step to run the script (installation)
 A server is required to run this project. We will be using XAMPP.
