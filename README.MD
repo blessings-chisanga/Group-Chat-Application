@@ -54,9 +54,7 @@ Copy the folder with the source code and paste it in (for XAMPP xampp/htdocs, fo
 + 8 Click on browse file and select “lfis.sql” file from the DataBase folder
 + 9 Click on Go.
 + 10 After creating a database
-+ 11 Open a new tab on your browser and go to the path. E.g. “http://localhost/lfis/
-  + the home page will be displayed.
-  + Login using the details below.
++ 11 Open a new tab on your browser and go to the path. E.g. “http://localhost/lfis/.the home page will be displayed, login using the details below.
 
 This web application is written in PHP and uses MySQL database. Ensure the PHP version is the same to avoid errors.
 
