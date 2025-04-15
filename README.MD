@@ -7,10 +7,8 @@ This system has two access methods which are the admin and staff. The admin mana
 
 This project is written in PHP and MYSQL database. This System is responsive and has advanced features which are listed below.
 
-Features of the lost and found information system in PHP
-
-Admin panel
-
+# Features of the lost and found information system in PHP
+  # Admin panel
 Dashboard – Shows the platform summary.
 Add Category.
 View other listed category.
@@ -31,40 +29,36 @@ Login and logout system.
 Message count system
 Change password.
 
-Users / Visitors Side
-
+  # Users / Visitors Side
 post Lost and found item
 Send contact message
 View posted lost item
 Find/Claim item
 
-Requirements
-
+# Requirements
 Almost all servers already have them installed.
 PHP 4.2
 MYSQL Database
 
-Step by step to run the script (installation)
-
+# Step by step to run the script (installation)
 A server is required to run this project. We will be using XAMPP.
-
 For XAMPP
 Copy the folder with the source code and paste it in (for XAMPP xampp/htdocs, for WAMPP wampp/www, for LAMPP var/www/html) root directory in your pc.
-Open your XAMPP Control panel and start Apache and MYSQL.
-Creating a database
-Open your browser
-Go to this path “http://localhost/phpmyadmin/”
-Click on New on the left side of the screen.
-Create a database named “lfis”.
-Click on the import tab.
-Click on browse file and select “lfis.sql” file from the DataBase folder
-Click on Go.
-After creating a database
-Open a new tab on your browser and go to the path. E.g. “http://localhost/lfis/
-the home page will be displayed.
-Login using the details below.
++ 1 Open your XAMPP Control panel and start Apache and MYSQL.
++ 2 Creating a database
++ 3 Open your browser
++ 4 Go to this path “http://localhost/phpmyadmin/”
++ 5 Click on New on the left side of the screen.
++ 6 Create a database named “lfis”.
++ 7 Click on the import tab.
++ 8 Click on browse file and select “lfis.sql” file from the DataBase folder
++ 9 Click on Go.
++ 10 After creating a database
++ 11 Open a new tab on your browser and go to the path. E.g. “http://localhost/lfis/
+  + the home page will be displayed.
+  + Login using the details below.
 
-This Lost and Found Information system can be used by IT students for their projects. It is written in PHP and uses MySQL database. This web application can be downloaded below, using the links provided below. You might get errors if you use PHP version greater or lesser than the one we have provided in the requirements.
+This web application is written in PHP and uses MySQL database. Ensure the PHP version is the same to avoid errors.
 
-username: admin
-password: alphacodecamp
++ username: admin
++ password: alphacodecamp
