@@ -7,8 +7,8 @@ This system has two access methods which are the admin and staff. The admin mana
 
 This project is written in PHP and MYSQL database. This System is responsive and has advanced features which are listed below.
 
-# Features of the lost and found information system in PHP
-  # Admin panel
+## Features of the lost and found information system in PHP
+  ### Admin panel
 + Dashboard – Shows the platform summary.
 + Add Category.
 + View other listed category.
@@ -29,18 +29,18 @@ This project is written in PHP and MYSQL database. This System is responsive and
 + Message count system
 + Change password.
 
-  # Users / Visitors Side
+### Users / Visitors Side
 + post Lost and found item
 + Send contact message
 + View posted lost item
 + Find/Claim item
 
-# Requirements
+## Requirements
 + Almost all servers already have them installed.
 + PHP 4.2
 + MYSQL Database
 
-# Step by step to run the script (installation)
+## Step by step to run the script (installation)
 A server is required to run this project. We will be using XAMPP.
 For XAMPP
 Copy the folder with the source code and paste it in (for XAMPP xampp/htdocs, for WAMPP wampp/www, for LAMPP var/www/html) root directory in your pc.
